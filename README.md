@@ -1,7 +1,7 @@
 # SMS
 Student Managment System is a GUI Java application for collection user data and storing it in a database.
 
-U can add ,edit and delete user data straight from the application
+U can add ,edit and delete user data straight from the application.
 
 Created with Java and MySql.
 
