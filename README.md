@@ -22,4 +22,4 @@ To run you need to configure the localhost MySql database and run the code in yo
 ![SMS4](https://user-images.githubusercontent.com/103357132/162614920-71c8b09d-f4c3-40e4-a76f-51ddc1313f26.jpg)
 
 
-Enjoy 
+
